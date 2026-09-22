@@ -1,0 +1,7 @@
+interface:
+  display_name: "人像模拟师"
+  short_description: "从人物设定到情绪表情的一体化人像提示词设计"
+  default_prompt: "使用 $portrait-prompt-crafter 直接生成一张具有人物风格和情绪表达的人像图。"
+
+policy:
+  allow_implicit_invocation: true
